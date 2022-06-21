@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Chie\\StudioProjects\\app_balance_sheet\\build\\path_provider\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-3\\e4425d3a5df8bb5d4c593de8cc0a5515\\transformed\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chie\\StudioProjects\\app_balance_sheet\\build\\path_provider\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-3\\e4425d3a5df8bb5d4c593de8cc0a5515\\transformed\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chie\\StudioProjects\\app_balance_sheet\\build\\path_provider\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-3\\e4425d3a5df8bb5d4c593de8cc0a5515\\transformed\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chie\\StudioProjects\\app_balance_sheet\\build\\path_provider\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-3\\e4425d3a5df8bb5d4c593de8cc0a5515\\transformed\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

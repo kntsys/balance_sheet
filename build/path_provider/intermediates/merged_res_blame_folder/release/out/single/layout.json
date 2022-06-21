@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Chie\\StudioProjects\\app_balance_sheet\\build\\path_provider\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-3\\e4425d3a5df8bb5d4c593de8cc0a5515\\transformed\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chie\\StudioProjects\\app_balance_sheet\\build\\path_provider\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-3\\e4425d3a5df8bb5d4c593de8cc0a5515\\transformed\\core-1.1.0\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chie\\StudioProjects\\app_balance_sheet\\build\\path_provider\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-3\\e4425d3a5df8bb5d4c593de8cc0a5515\\transformed\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chie\\StudioProjects\\app_balance_sheet\\build\\path_provider\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-3\\e4425d3a5df8bb5d4c593de8cc0a5515\\transformed\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chie\\StudioProjects\\app_balance_sheet\\build\\path_provider\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-3\\e4425d3a5df8bb5d4c593de8cc0a5515\\transformed\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Chie\\StudioProjects\\app_balance_sheet\\build\\path_provider\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\Chie\\.gradle\\caches\\transforms-3\\e4425d3a5df8bb5d4c593de8cc0a5515\\transformed\\core-1.1.0\\res\\layout\\custom_dialog.xml"
+    }
+]
